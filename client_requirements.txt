@@ -1,0 +1,7 @@
+Pillow
+pywin32
+comtypes
+pycaw
+pyautogui
+opencv-python
+vidstream
