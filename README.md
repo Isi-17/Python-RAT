@@ -1,6 +1,6 @@
-# **Python RAT - Remote Administration Tool**
+# **Python RAT - Remote Access Tool**
 
-This project is an advanced Remote Administration Tool (RAT) for Windows systems, written in Python. It has been modified and improved from an original repository with several additional features.
+This project is an advanced Remote Access Tool (RAT) for Windows systems, written in Python. It has been modified and improved from an original repository with several additional features.
 
 ## **Target Systems**
 
