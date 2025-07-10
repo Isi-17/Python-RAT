@@ -178,8 +178,6 @@ CAUSED BY THIS PROGRAM.
 ## Licence
 This project is originally based on the work of [FZGbzuw412](https://github.com/FZGbzuw412), and incorporates code from their repository published under the [MIT License](https://opensource.org/licenses/MIT).  
 All modifications, additions, and enhancements were made for educational and research purposes only.
-
-Please refer to the [original repository](https://github.com/FZGbzuw412) for the unmodified version.
   
     Copyright (c) 2022 FZGbzuw412
 
