@@ -1,6 +1,6 @@
 # **Python RAT - Remote Access Tool**
 
-This project is an advanced Remote Access Tool (RAT) for Windows systems, written in Python. It has been modified and improved from an original repository with several additional features.
+This project is an advanced Remote Access Tool (RAT) for Windows systems, written in Python. It is based on an original open-source project by FZGbzuw412 (licensed under MIT), and has been significantly modified and extended with several additional features.
 
 ## **Target Systems**
 
@@ -176,6 +176,10 @@ THE DEVELOPER FZGbzuw412 ASSUMES NO LIABILITY AND IS NOT RESPONSIBLE FOR ANY MIS
 CAUSED BY THIS PROGRAM.
 
 ## Licence
+This project is originally based on the work of [FZGbzuw412](https://github.com/FZGbzuw412), and incorporates code from their repository published under the [MIT License](https://opensource.org/licenses/MIT).  
+All modifications, additions, and enhancements were made for educational and research purposes only.
+
+Please refer to the [original repository](https://github.com/FZGbzuw412) for the unmodified version.
   
     Copyright (c) 2022 FZGbzuw412
 
